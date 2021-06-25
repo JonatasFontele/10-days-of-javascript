@@ -1,4 +1,4 @@
-'use strict';
+'use strict'; // It helps to write cleaner code, like preventing from using undeclared variables.
 
 process.stdin.resume();
 process.stdin.setEncoding('utf-8');
